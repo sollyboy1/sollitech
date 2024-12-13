@@ -423,7 +423,7 @@ nav img { width: 150px;
         padding: 0 1%;
         
       }
-      @media(max-width:400px){
+      @media(max-width:480px){
         .footer{
           display: block;
           justify-content: center;
