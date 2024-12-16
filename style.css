@@ -43,7 +43,7 @@ nav img { width: 150px;
     display: none;
    }
 
-   @media (max-width:320px){
+   @media (max-width:412px){
     .nav-list{
       display: block;
         background-color:orange;
@@ -137,7 +137,15 @@ nav img { width: 150px;
 
      }
 
-     @media(max-width:320px){
+     @media(max-width:412px){
+
+      .home {
+        display:block;
+        height: 50%;
+        width: auto;
+        overflow: hidden;
+
+      }
       .home-content p{
        
         justify-content: center;
@@ -153,7 +161,7 @@ nav img { width: 150px;
      }
 
 
-     @media(max-width:320px){
+     @media(max-width:412px){
       .btn-box{
        
         justify-content: center;
@@ -204,7 +212,7 @@ nav img { width: 150px;
 
      
 
-      @media (max-width:320px){
+      @media (max-width:412px){
         .home{display: block;
         min-height: 400px;}
         .home-content{
@@ -225,7 +233,7 @@ nav img { width: 150px;
 
 
 
-      @media (max-width:320px) {
+      @media (max-width:412px) {
         .img-section{min-height: 600px;
         padding-bottom: 100px;}
         .img-section img{
@@ -246,7 +254,7 @@ nav img { width: 150px;
         justify-content: center;
         
       }
-      @media(max-width:320px){
+      @media(max-width:412px){
         .main-body{
           display: block;
           justify-content: center;
@@ -266,7 +274,7 @@ nav img { width: 150px;
       }
 
 
-      @media(max-width:320px){
+      @media(max-width:412px){
         .img-body{
           display: none;
           justify-content: center;
@@ -311,7 +319,7 @@ nav img { width: 150px;
         gap: 1em;
       }
 
-      @media(max-width:320px){
+      @media(max-width:412px){
         .our-main-services{
           display: block;
           justify-content: center;
@@ -423,7 +431,7 @@ nav img { width: 150px;
         padding: 0 1%;
         
       }
-      @media(max-width:320px){
+      @media(max-width:412px){
         .footer{
           display: block;
           justify-content: center;
@@ -446,7 +454,7 @@ nav img { width: 150px;
         font-size: 16px;
         text-align: center;
       }
-      @media(max-width:320px){
+      @media(max-width:412px){
         .footer1 p{
           padding: 0 20px;
       }
